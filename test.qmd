@@ -1,9 +1,0 @@
----
-title: "Photo Test"
----
-
-# Testing Photo Display
-
-![Test Photo](images/profile.jpg)
-
-This is a test page to verify that photos are displaying correctly.
