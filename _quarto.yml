@@ -6,7 +6,7 @@ website:
   title: "Iris Portfolio"
   favicon: images/iris-icon.png
   navbar:
-    background: light
+    background: primary
     left:
       - href: index.qmd
         text: Home
@@ -21,11 +21,10 @@ website:
       - text: " 2025 Iris. All rights reserved."
     right:
       - icon: github
-        href: https://github.com/yourusername
-      
+        href: https://github.com/Irisshuang-star
 
 format:
   html:
-    theme: 
+    theme:
       light: [cosmo, styles.scss]
     toc: true
