@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Iris Portfolio"
+  favicon: images/iris-icon.png
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: work.qmd
+        text: Work
+      - href: blog.qmd
+        text: Blog
+  page-footer:
+    center: 
+      - text: " 2025 Iris. All rights reserved."
+    right:
+      - icon: github
+        href: https://github.com/yourusername
+      
+
+format:
+  html:
+    theme: 
+      light: [cosmo, styles.scss]
+    toc: true

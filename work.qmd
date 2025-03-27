@@ -1,0 +1,35 @@
+---
+title: "My Work"
+---
+
+## Projects
+
+Here's a collection of my academic projects in Chinese drama and digital humanities.
+
+### <a id="project1"></a>Ming-Qing Opera Prefaces and Postscripts Database
+
+![Database Visualization](images/project1.jpg)
+
+**Status**: Ongoing  
+**Technologies**: CBDB, Data Visualization, Digital Humanities Tools  
+**Description**: A data-driven project that catalogs and analyzes the prefaces and postscripts of operas from the Ming and Qing dynasties using CBDB, with the aim of visualizing social networks among playwrights. This project combines traditional textual analysis with digital humanities methodologies to reveal previously unexplored connections in the literary landscape of imperial China.  
+
+---
+
+### <a id="project2"></a>Bilingual Bibliography of Chinese Opera Studies in the West
+
+![Bibliography Sample](images/project2.jpg)
+
+**Status**: Ongoing  
+**Technologies**: Bibliographic Database, Translation, Cross-cultural Studies  
+**Description**: A comprehensive, bilingual (Chinese-English) bibliography of English-language works on Chinese opera, intended to support international academic exchange. This resource bridges the gap between Chinese and Western scholarship, facilitating greater collaboration and understanding across linguistic and cultural boundaries.  
+
+---
+
+### <a id="project3"></a>Zuo Ke's Chinese Drama: A Study and Critical Reflection
+
+![Research Paper](images/project3.jpg)
+
+**Status**: In Progress  
+**Technologies**: Literary Analysis, Historiography, Critical Theory  
+**Description**: An interpretive paper examining Zuo Ke's contribution to the historiography of Chinese drama. This research evaluates how Zuo Ke's work has shaped our understanding of Chinese theatrical traditions and offers new perspectives on the development of drama studies in China.

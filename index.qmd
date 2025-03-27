@@ -1,0 +1,34 @@
+---
+title: "Welcome to My Portfolio"
+---
+
+# Hello, I'm Iris
+
+::: {.column-margin}
+![](images/profile.jpg){.rounded .border .shadow}
+:::
+
+Welcome to my academic portfolio. Here you'll find information about my research in Chinese drama and digital humanities, my ongoing projects, and my scholarly blog posts.
+
+> "For my part I know nothing with any certainty, but the sight of the stars makes me dream." - Vincent van Gogh
+
+## My Research Focus
+
+I am a PhD candidate specializing in Chinese drama and digital humanities. My research explores the intersection of literature, performance, and cultural exchange, with a particular focus on how Chinese drama has been studied and interpreted both domestically and internationally.
+
+## Featured Projects
+
+- [Ming-Qing Opera Prefaces Database](/work.html#project1): A data-driven project cataloging and analyzing opera prefaces and postscripts using CBDB.
+- [Bilingual Bibliography of Chinese Opera Studies](/work.html#project2): A comprehensive Chinese-English bibliography supporting international academic exchange.
+- [Zuo Ke's Chinese Drama](/work.html#project3): An interpretive study examining contributions to Chinese drama historiography.
+
+## Recent Blog Posts
+
+- [Digital Approaches to Ming Dynasty Opera](/blog/post1.html): Exploring methodologies and challenges in applying digital humanities techniques to historical Chinese texts.
+- [Bridging East and West: Chinese Opera Studies](/blog/post2.html): Examining the evolution of Chinese opera studies in Western academia and cross-cultural academic exchange.
+- [Reconsidering Zuo Ke's Contribution](/blog/post3.html): A critical reassessment of Zuo Ke's influence on Chinese drama historiography.
+
+---
+*Like the irises in Van Gogh's famous painting, I strive to stand out with vibrant creativity and thoughtful research that bridges traditional and digital approaches to humanities.*
+
+[Learn more about me](/about.html) or [explore my research](/work.html).

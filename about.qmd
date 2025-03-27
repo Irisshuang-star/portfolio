@@ -1,0 +1,36 @@
+---
+title: "About Me"
+---
+
+## Who I Am
+
+I am a PhD candidate at Hubei University, specializing in Chinese drama and digital humanities. My research explores the intersection of literature, performance, and cultural exchange, with a particular focus on how Chinese drama has been studied and interpreted both domestically and internationally. I have experience working with historical databases such as CBDB, and am passionate about integrating digital tools into humanities research.
+
+![Iris by the ocean](images/profile.jpg)
+
+> My name "Iris" shares its origin with both the beautiful flower and the colorful part of the eye - representing my appreciation for beauty and attention to detail.
+
+## My Background
+
+I hold a Master's degree in Chinese Literature from Hubei University, where I am currently pursuing my PhD. My academic journey has been focused on bridging traditional literary studies with modern digital methodologies. I have participated in several international conferences on Chinese drama and digital humanities, and have collaborated with scholars from various institutions on projects that aim to preserve and analyze Chinese theatrical traditions.
+
+## Skills
+
+- **Research Methods**: Textual Analysis, Historiography, Digital Humanities Methodologies
+- **Digital Tools**: CBDB (China Biographical Database), Data Visualization Software, Bibliographic Management Systems
+- **Languages**: Mandarin Chinese (Native), English (Fluent), Classical Chinese (Reading)
+- **Soft Skills**: Cross-cultural Communication, Academic Writing, Interdisciplinary Collaboration
+
+## Inspiration
+
+I draw inspiration from impressionist artists like Vincent van Gogh, whose work "Irises" (1889) resonates with me not just because of our shared name, but because of the way it captures beauty through bold colors and expressive brushstrokes. In my work, I strive to blend technical precision with creative expression.
+
+## Interests
+
+Outside of research, I love nature—especially flowers. The English Iris is one of my favorites for its grace and quiet strength. You’ll notice the background of this site features my favorite oil painting, "Irises" by Vincent van Gogh. Painted in 1889 during his time at the asylum in Saint-Rémy, Irises captures the intense beauty of nature with a moving sense of calm and life. The vibrant blues and flowing lines remind me that even in chaotic times, beauty can still bloom.
+
+I also love to travel—whether it’s exploring historical sites, visiting art museums, or simply wandering through a new city, I find inspiration everywhere.
+
+## Contact
+
+Feel free to reach out to me at irisshuang123@gamil.com or connect with me on [GitHub](https://github.com/Irisshuang-star).
