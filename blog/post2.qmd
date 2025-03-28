@@ -3,7 +3,6 @@ title: "Bridging East and West: The Evolution of Chinese Opera Studies in Wester
 author: "Iris"
 date: "2025-03-15"
 categories: [Chinese Opera, Cross-cultural Studies, Academic Exchange]
-image: "../images/blog2.jpg"
 ---
 
 # Bridging East and West: The Evolution of Chinese Opera Studies in Western Academia

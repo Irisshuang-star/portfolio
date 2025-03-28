@@ -3,7 +3,6 @@ title: "Digital Approaches to Ming Dynasty Opera: Methodologies and Challenges"
 author: "Iris"
 date: "2025-03-20"
 categories: [Digital Humanities, Chinese Drama, Methodology]
-image: "../images/blog1.jpg"
 ---
 
 # Digital Approaches to Ming Dynasty Opera: Methodologies and Challenges
