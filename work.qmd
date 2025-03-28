@@ -8,7 +8,7 @@ Here's a collection of my academic projects in Chinese drama and digital humanit
 
 ### <a id="project1"></a>Ming-Qing Opera Prefaces and Postscripts Database
 
-![Database Visualization](images/project1.jpg)
+
 
 **Status**: Ongoing  
 **Technologies**: CBDB, Data Visualization, Digital Humanities Tools  
@@ -18,7 +18,7 @@ Here's a collection of my academic projects in Chinese drama and digital humanit
 
 ### <a id="project2"></a>Bilingual Bibliography of Chinese Opera Studies in the West
 
-![Bibliography Sample](images/project2.jpg)
+
 
 **Status**: Ongoing  
 **Technologies**: Bibliographic Database, Translation, Cross-cultural Studies  
@@ -28,7 +28,7 @@ Here's a collection of my academic projects in Chinese drama and digital humanit
 
 ### <a id="project3"></a>Zuo Ke's Chinese Drama: A Study and Critical Reflection
 
-![Research Paper](images/project3.jpg)
+
 
 **Status**: In Progress  
 **Technologies**: Literary Analysis, Historiography, Critical Theory  
